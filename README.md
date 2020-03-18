@@ -1,1 +1,1 @@
-# master
+print('hello new project')
